@@ -1,0 +1,91 @@
+body{
+    font-family: arial,sans-serif;
+} 
+
+#wholething{
+    margin-top: 5.6%;
+    text-align: center;   
+}
+
+
+body > div > a,#lucky{
+    text-decoration: none;
+    color: black;   
+}
+
+/*top right items*/
+.images{
+    text-align: end;
+    font-size: 13px;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1px;   
+}
+
+#imglink:hover{
+    text-decoration:underline;
+}
+
+#advsearch{
+    margin-right: 30px;
+}
+
+#advsearch:hover{
+    text-decoration: underline;
+}
+
+/*search bar*/
+#searchbutton,button{
+    border:none;
+    border-radius: 5px;
+    width: 125px;
+    height: 40px;
+    margin: 20px;
+    margin-top: 0px;  
+    font-size: 13px; 
+    margin-right: 4px;                
+}
+
+#searchbutton:hover{
+    box-shadow: 1px 1px 2px 1px gray;
+}
+
+button{
+    margin-left: 4px;
+}
+
+button:hover{
+    box-shadow: 1px 1px 2px 1px gray;
+}
+
+#searchbar{
+    width: 575px;
+    height: 45px;
+    margin: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    border: 2px solid whitesmoke;
+    background-color: transparent;
+    padding-left: 20px;   
+}
+
+#searchbar:hover{
+    box-shadow: 1px 1px 7px 0px gray; 
+}
+
+#searchbar:focus{
+    outline: none;
+}
+
+#logo{
+    margin-bottom: 0px;
+}
+
+.offeredin{
+    font-size: 80%;
+}
+
+.languages{
+    font-size: 100%;
+}
+

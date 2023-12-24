@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Google Image Search </title>
+        <style>
+
+            body{
+                font-family: arial,sans-serif;
+            }
+
+            #whole{
+                text-align: center;
+                margin-top: 5.65%;
+                
+            }
+
+            /*top right*/
+            div>a{
+                text-decoration: none;
+                color: black;
+            }
+
+            .right{
+                text-align: end;
+                font-size: 13px;
+                padding-right: 3%;
+                padding-top: 1%;
+            }
+
+            #top-right:hover{
+                text-decoration:underline;
+            }
+
+            /*logo*/
+            .container {
+                color: rgb(66, 133, 244);
+                margin-bottom: 1.55%;
+            }
+
+            .bottom-right {
+                position: absolute;
+                top: 25.7%;
+                right: 41.5%;
+            }
+
+            /*search bar*/
+            #searchbar{
+                width: 35.5%;
+                height: 43px;
+                border-radius: 30px;
+                margin-bottom: 20px;
+                border: 1px solid lightgray;
+                background-color: transparent;
+                padding-left: 40px;   
+            }
+
+            #searchbar:hover{
+                box-shadow: 1px 1px 7px 0px gray; 
+            }
+
+            #searchbar:focus{
+                outline: none;
+            }
+
+            
+        </style>
+    </head>
+    <body>
+        <div class="right">
+            <a id="top-right" href="./index.html">Google Search</a>
+        </div>
+        
+        <div id="whole">          
+
+            <div class="container">
+                <img id="logo" src="google_search.png" alt="google search">
+                <p class="bottom-right "id="text">images</p>
+            </div>
+
+            <div>
+                <form action="https://www.google.com/imghp">
+                    <input id="searchbar" type="text image" name="q">                   
+                </form>
+            </div>
+            
+        </div>
+    </body>
+</html>
