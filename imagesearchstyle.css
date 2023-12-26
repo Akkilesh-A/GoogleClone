@@ -1,72 +1,52 @@
 body{
     font-family: arial,sans-serif;
     margin-left: 0px;
-} 
-
-#wholething{
-    margin-top: 5.6%;
-    text-align: center;   
 }
 
-body > div > a,#lucky{
+#whole{
+    text-align: center;
+    margin-top: 5.65%;
+    margin-bottom: 12.4%;   
+}
+
+/*top right*/
+div>a{
     text-decoration: none;
-    color: black;   
+    color: black;
 }
 
-/*top right items*/
-.images{
+.right{
     text-align: end;
     font-size: 13px;
     padding-right: 3%;
     padding-top: 1%;
-    padding-bottom: 1px;   
 }
 
-#imglink:hover{
+#top-right:hover{
     text-decoration:underline;
 }
 
-#advsearch{
-    margin-right: 30px;
+/*logo*/
+.container {
+    color: rgb(66, 133, 244);
+    margin-bottom: 1.55%;
 }
 
-#advsearch:hover{
-    text-decoration: underline;
+.bottom-right {
+    position: absolute;
+    top: 25.7%;
+    right: 41.5%;
 }
 
 /*search bar*/
-#searchbutton,button{
-    border:none;
-    border-radius: 5px;
-    width: 125px;
-    height: 40px;
-    margin: 20px;
-    margin-top: 0px;  
-    font-size: 13px; 
-    margin-right: 4px;                
-}
-
-#searchbutton:hover{
-    box-shadow: 1px 1px 2px 1px gray;
-}
-
-button{
-    margin-left: 4px;
-}
-
-button:hover{
-    box-shadow: 1px 1px 2px 1px gray;
-}
-
 #searchbar{
-    width: 575px;
-    height: 45px;
-    margin: 20px;
+    width: 35.5%;
+    height: 43px;
     border-radius: 30px;
     margin-bottom: 20px;
-    border: 2px solid whitesmoke;
+    border: 1px solid lightgray;
     background-color: transparent;
-    padding-left: 20px;   
+    padding-left: 40px;   
 }
 
 #searchbar:hover{
@@ -75,19 +55,6 @@ button:hover{
 
 #searchbar:focus{
     outline: none;
-}
-
-#logo{
-    margin-bottom: 0px;
-}
-
-.offeredin{
-    font-size: 80%;
-    margin-bottom: 5.9%;
-}
-
-.languages{
-    font-size: 100%;
 }
 
 /* bottom borders */
@@ -156,4 +123,3 @@ p>a:hover{
 .lastitem{
     margin-right: 30px;
 }
-
