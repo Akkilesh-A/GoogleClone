@@ -26,19 +26,6 @@ div>a{
     text-decoration:underline;
 }
 
-/*logo*/
-.imgcontainer {
-    position: relative;
-}
-  
-.bottomright {
-    position: absolute;
-    bottom: 2%;
-    right: 41.5%;
-    font-size: 18px;
-    color: rgb(66, 133, 244);
-}
-
 /*search bar*/
 #searchbar{
     width: 35.5%;
