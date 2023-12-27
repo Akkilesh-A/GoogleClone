@@ -27,15 +27,16 @@ div>a{
 }
 
 /*logo*/
-.container {
-    color: rgb(66, 133, 244);
-    margin-bottom: 1.55%;
+.imgcontainer {
+    position: relative;
 }
-
-.bottom-right {
+  
+.bottomright {
     position: absolute;
-    top: 25.7%;
+    bottom: 2%;
     right: 41.5%;
+    font-size: 18px;
+    color: rgb(66, 133, 244);
 }
 
 /*search bar*/

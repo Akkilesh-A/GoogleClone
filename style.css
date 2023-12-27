@@ -144,18 +144,18 @@ p>a:hover{
 }
 
 .footitems{
-    padding-left:30px ;
+    padding-left:3% ;
     font-size: 14px;
     font-size: 13px;
 }
 
 /* nested */
 .footitems1{
-    padding-left:30px ;
+    padding-left:3% ;
     font-size: 13px;
 }
 
 .lastitem{
-    margin-right: 30px;
+    margin-right: 3%;
 }
 
