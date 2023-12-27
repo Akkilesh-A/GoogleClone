@@ -148,7 +148,7 @@ body{
     background-color: rgb(242, 242, 242);
     color: gray;
     width: 100%;
-    position: fixed;
+    position: sticky;
     bottom: 0px;
 }
 
