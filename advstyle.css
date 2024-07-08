@@ -113,6 +113,8 @@ body{
 
 /* bottom borders */
 #india{
+    position:absolute;
+    bottom:0;
     padding-left: 20px;
     background-color: rgb(242, 242, 242);
     padding-top: 5px;
