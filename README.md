@@ -1,6 +1,6 @@
 # 🌐 Google Clone Web App
 
-Welcome to the Google Clone Web App! This project is a simple replica of the Google search page, built using HTML and CSS.
+Welcome to the Google Clone Web App! This project is a simple replica of the Google search page with a fully functional search bar!, built using HTML and CSS.
 
 ## 📸 Preview
 
@@ -11,6 +11,8 @@ Welcome to the Google Clone Web App! This project is a simple replica of the Goo
 ![image](https://github.com/Akkilesh-A/GoogleClone/assets/136828513/7ac8adf9-f523-4046-8272-65fd8536b431)
 
 #### Advanced Search
+![image](https://github.com/Akkilesh-A/GoogleClone/assets/136828513/3ea94e38-a695-475f-9e3a-2c9663dc500a)
+
 
 ## 🚀 Features
 
