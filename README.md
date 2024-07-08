@@ -24,12 +24,15 @@ Welcome to the Google Clone Web App! This project is a simple replica of the Goo
 - CSS
 
 ## 📜 How to Use
+
+#### Step-1
 ```sh
-git clone repolink
+git clone https://github.com/Akkilesh-A/GoogleClone.git
 ```
 
-```sh
-Open index.html in browser
-```
+#### Step-2
+Open index.html in browser!
+
+
 
 
